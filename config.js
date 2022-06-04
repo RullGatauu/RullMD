@@ -8,7 +8,7 @@ global.packname = 'Bot Whatsapp'
 global.author = 'NagatoroBot'
 global.sessionName = 'session.data'
 global.prefa = ['','!','.','#']
-global.ownername = 'KurrXd'
+global.ownername = 'Rull'
 global.sp = '>'
 global.mess = {
     admin: 'Fitur Khusus Admin Group!',
